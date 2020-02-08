@@ -134,7 +134,7 @@ def main():
         else:
             print("!!!Error en la ruta al crear carpeta!!!")              
     else:
-        print("Introduzca una palabra a buscar")
+        print("Introduzca una palabra a buscar !")
 
 if __name__ == "__main__":
     try:
