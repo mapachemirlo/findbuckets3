@@ -1,5 +1,5 @@
 # Findbuckets3
-Findbuckets3 es un pequeño script para buscar buckets s3 utilizando el buscador grayhatwarfare, actualmente está en etapada de desarrollo, la idea es agregarle más funcionalidad.
+Findbuckets3 es un pequeño script para buscar buckets s3 utilizando el buscador grayhatwarfare, actualmente está en etapa de desarrollo, la idea es agregarle más funcionalidad.
 
 # Requisitos
 Python 3.*
@@ -7,7 +7,7 @@ Python 3.*
 # Instalación
 Clone el repositorio a su directorio local:
 
-`https://github.com/mapachemirlo/findbuckets3.git`
+`git clone https://github.com/mapachemirlo/findbuckets3.git`
 
 Instale las dependencias:
 
