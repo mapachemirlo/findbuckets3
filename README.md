@@ -13,7 +13,7 @@ Clone el repositorio a su directorio local:
 
 Instale las dependencias:
 
-Ingrese el directorio `findbuckets3` y ejecute:
+Ingrese al directorio `findbuckets3` y ejecute:
 
 `pip install -r requirements.txt`
 
