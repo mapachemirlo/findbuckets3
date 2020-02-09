@@ -11,6 +11,8 @@ Clone el repositorio a su directorio local:
 
 Instale las dependencias:
 
+Ingrese a el directorio `findbuckets3` y ejecute:
+
 `pip install -r requirements.txt`
 
 Si tiene inconvenientes con mechanize, pruebe instalando por separado:
