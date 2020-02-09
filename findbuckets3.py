@@ -33,7 +33,7 @@ parse = argparse.ArgumentParser(description="Buscador")
 parse.add_argument('-b','--buscar', help='Opcion buscar')
 parse = parse.parse_args()
 
-print('- Crear directorio de salida, ejemplo: /home/user/recon\n')
+print('- Crear directorio de salida, ejemplo: /home/user/directorio\n')
 path_folder = input("- Ingrese PATH: ")
 print('')
 
