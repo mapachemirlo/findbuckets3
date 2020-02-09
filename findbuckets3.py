@@ -130,7 +130,7 @@ def main():
                     os.system('rm {}/{}/file_all.txt'.format(path_folder, company))
 
             except:
-                print("\n ¡¡¡ ERROR de Conección !!!\n") 
+                print("\n ¡¡¡ ERROR de Conexión !!!\n") 
         else:
             print("!!!Error en la ruta al crear carpeta!!!")              
     else:
