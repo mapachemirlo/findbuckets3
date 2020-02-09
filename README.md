@@ -1,6 +1,8 @@
 # Findbuckets3
 Findbuckets3 es un pequeño script para buscar buckets s3 utilizando el buscador grayhatwarfare, actualmente está en etapa de desarrollo, la idea es agregarle más funcionalidad.
 
+Disponible por el momento solo para entorno Linux.
+
 # Requisitos
 Python 3.*
 
