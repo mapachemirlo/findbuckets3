@@ -28,6 +28,8 @@ Ejecute:
 
 `python findbuckets3.py -b palabra`
 
+Ejemplo: `python findbuckets3.py -b yahoo`
+
 # Nota
 Tal vez deba agregar utf-8 de la siguiente manera:
 `export PYTHONIOENCODING=UTF-8`
