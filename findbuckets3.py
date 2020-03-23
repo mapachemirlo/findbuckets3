@@ -24,7 +24,7 @@ else:
     pass
 
 print('')
-custom_fig = Figlet(font='threepoint')
+custom_fig = Figlet(font='small')
 print(custom_fig.renderText(' F i n d b u c k e c t s 3'))
 
 print('- Ejecutar con Python 3.*\n')
