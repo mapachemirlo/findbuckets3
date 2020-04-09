@@ -19,7 +19,7 @@ Ingrese al directorio `findbuckets3` y ejecute:
 
 Si tiene inconvenientes con mechanize, pruebe instalando por separado:
 
-`pip install -U mechanize` o descargando el archivo desde http://wwwsearch.sourceforge.net/mechanize/src/ y ejecutando `setup.py`.
+`pip install -U mechanize` o descargando el archivo desde http://www.search.sourceforge.net/mechanize/src/ y ejecutando `setup.py`.
 
 Puede agregar el archivo `findbuckets3.py` al $PATH para más comodidad.
 
